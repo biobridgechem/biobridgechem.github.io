@@ -4,7 +4,7 @@ MedChemExpress (MCE) – Master of Bioactive Molecules
 
 MedChemExpress (MCE) offers a wide range of high-quality research chemicals and biochemicals (novel life-science reagents, reference compounds and natural compounds) for scientific use. They have professionally experienced and friendly staff to meet your needs. Their scientific team is highly experienced and has a successful track record in molecular synthesis. They are proficient in the synthesis of milligram to kilogram scale of structurally diverse and synthetically challenging molecules. They are customer-oriented and work closely with them to meet their need.
 
-![MCE](Aspose.Words.781e598a-ceb8-405c-b2c5-c627540d9MCE56.001.png)
+![MCE](Aspose.Words.781e598a-ceb8-405c-b2c5-c627540d9a56.001.png)
 
 *Link:* <https://www.medchemexpress.com/?srsltid=AfmBOoqqPmrHa_d0GL4VaWly0IDahGaAdo_L-KWgs5tjPi4agLkezhe1>
 
