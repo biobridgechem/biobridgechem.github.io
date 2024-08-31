@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2024-08-31
 type: landing
 
 design:
@@ -18,7 +18,7 @@ sections:
         icon: rocket-launch
       secondary_action:
         text: Previous Seminars 
-        url: /docs/
+        url: /event/
       announcement:
         text: "Interested in joing the team?"
         link:
