@@ -41,8 +41,8 @@ header:
       filename: "logo.svg"
     button:
       enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/details/docs/"
+      text: "Contact Us"
+      url: "mailto:linsu.hub@gmail.com"
     show_search: true
     show_theme_chooser: true
 
