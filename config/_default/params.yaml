@@ -49,7 +49,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {2024} Cambridge Chem&Bio. This work is licensed under {license}'
+    notice: '© 2024 Cambridge Chem&Bio. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
