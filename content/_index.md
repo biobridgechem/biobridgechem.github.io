@@ -13,17 +13,17 @@ sections:
       title: CHEM&BIO seminar
       text: ZT & XD 带你看世界 🎉
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
+        text: Attend Our Next Seminar
+        url: https://letsinno.com/lnk/t/q2AiqeW
         icon: rocket-launch
       secondary_action:
-        text: Read the docs
+        text: Previous Seminars 
         url: /docs/
       announcement:
-        text: "Announcing the release of version 2."
+        text: "Interested in joing the team?"
         link:
           text: "Read more"
-          url: "/blog/"
+          url: "/about/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
