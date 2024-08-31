@@ -4,7 +4,7 @@ MedChemExpress (MCE) – Master of Bioactive Molecules
 
 MedChemExpress (MCE) offers a wide range of high-quality research chemicals and biochemicals (novel life-science reagents, reference compounds and natural compounds) for scientific use. They have professionally experienced and friendly staff to meet your needs. Their scientific team is highly experienced and has a successful track record in molecular synthesis. They are proficient in the synthesis of milligram to kilogram scale of structurally diverse and synthetically challenging molecules. They are customer-oriented and work closely with them to meet their need.
 
-![MedChem Express products from Cambridge Bioscience](Aspose.Words.781e598a-ceb8-405c-b2c5-c627540d9a56.001.png)
+![MCE](Aspose.Words.781e598a-ceb8-405c-b2c5-c627540d9MCE56.001.png)
 
 *Link:* <https://www.medchemexpress.com/?srsltid=AfmBOoqqPmrHa_d0GL4VaWly0IDahGaAdo_L-KWgs5tjPi4agLkezhe1>
 
@@ -12,7 +12,7 @@ MedChemExpress (MCE) offers a wide range of high-quality research chemicals and 
 
 Vazyme is a global technology and service provider that specializes in the design, manufacture, and application of bioactive compounds and continuously expands the application fields of core technologies in life sciences, *in vitro* diagnostics, biomedicine, and exploratory business. To meet the varying needs of their customers and partners, they have developed over 200 types of genetically engineered recombinant enzymes and over 1,000 types of high-performance materials and over 1,000 end products. While remaining steadfast to high quality standards, producing all core materials in-house and adhering to GMP quality control standards, they endeavour to maintain a stable and sufficient supply for global customers by establishing wholly owned branches and localized service teams. Currently, Vazyme has served customers in over 60 countries and regions with wholly owned branches offices in the U.S., Germany, Indonesia, Singapore and Hong Kong SAR. 
 
-![A screenshot of a graph Description automatically generated](Aspose.Words.781e598a-ceb8-405c-b2c5-c627540d9a56.002.png)
+![Vazyme](Aspose.Words.781e598a-ceb8-405c-b2c5-c627540d9a56.002.png)
 
 *Link:* <https://www.vazymebiotech.com>
 
@@ -26,6 +26,6 @@ As the specialist in protein recombinant expression and antibody development, Si
 
 Sino Biological Europe GmbH is located in Frankfurt with a local sales and service team as well as our comprehensive protein inventory. These facilities enable Sino Biological to deliver high-quality products and services with competitive lead times to our European customers.
 
-![](Aspose.Words.781e598a-ceb8-405c-b2c5-c627540d9a56.003.png)
+![Sino](Aspose.Words.781e598a-ceb8-405c-b2c5-c627540d9a56.003.png)
 
 *Link:* https://www.sinobiological.com/
