@@ -18,16 +18,16 @@ main:
     url: partnership/
     weight: 50
 
-sidebar:
-  - identifier: more
-    name: Still need help?
-    params:
-      type: separator
-    weight: 1
-  - identifier: community
-    name: "Community"
-    pageRef: "/community"
-    weight: 2
+#sidebar:
+#  - identifier: more
+#    name: Still need help?
+#    params:
+#      type: separator
+#    weight: 1
+#  - identifier: community
+#    name: "Community"
+#    pageRef: "/community"
+#    weight: 2
   #- identifier: hugoDocs
   #  name: "Hugo Docs ↗"
   #  url: "https://docs.hugoblox.com"
