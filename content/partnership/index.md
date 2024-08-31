@@ -1,36 +1,49 @@
----
-title: Community
-toc: true
-reading_time: false
-pager: false
----
+﻿**MCE**
 
-## Support
+MedChemExpress (MCE) – Master of Bioactive Molecules 
 
-Get support fast. Hugo Blox has the largest Hugo community on Discord, consisting of thousands of creators, developers, and startups.
+MedChemExpress (MCE) offers a wide range of high-quality research chemicals and biochemicals (novel life-science reagents, reference compounds and natural compounds) for scientific use. They have professionally experienced and friendly staff to meet your needs. Their scientific team is highly experienced and has a successful track record in molecular synthesis. They are proficient in the synthesis of milligram to kilogram scale of structurally diverse and synthetically challenging molecules. They are customer-oriented and work closely with them to meet their need.
 
-## Docs
+![MedChem Express products from Cambridge Bioscience](Aspose.Words.781e598a-ceb8-405c-b2c5-c627540d9a56.001.png)
 
-- View the [Hugo Blox Documentation](https://docs.hugoblox.com/)
 
-## Live Chat {#chat}
+*Link:* <https://www.medchemexpress.com/?srsltid=AfmBOoqqPmrHa_d0GL4VaWly0IDahGaAdo_L-KWgs5tjPi4agLkezhe1>
 
-- Join the [Hugo Blox Online Chat](https://discord.gg/z8wNYzb)
-  - _#using-hugo-blox_ for user help
-  - _#contributors_ for contributing help
 
-## Feature requests {#feature-requests}
+**Vazyme** 
 
-For new feature requests, create a post on our [GitHub Issues](https://github.com/HugoBlox/hugo-blox-builder/issues). You can also upvote existing feature requests with a 👍
+Vazyme is a global technology and service provider that specializes in the design, manufacture, and application of bioactive compounds and continuously expands the application fields of core technologies in life sciences, *in vitro* diagnostics, biomedicine, and exploratory business. To meet the varying needs of their customers and partners, they have developed over 200 types of genetically engineered recombinant enzymes and over 1,000 types of high-performance materials and over 1,000 end products. While remaining steadfast to high quality standards, producing all core materials in-house and adhering to GMP quality control standards, they endeavour to maintain a stable and sufficient supply for global customers by establishing wholly owned branches and localized service teams. Currently, Vazyme has served customers in over 60 countries and regions with wholly owned branches offices in the U.S., Germany, Indonesia, Singapore and Hong Kong SAR. ![A screenshot of a graph
 
-## News {#news}
+Description automatically generated](Aspose.Words.781e598a-ceb8-405c-b2c5-c627540d9a56.002.png)
 
-Follow us so you are the first to know when new features and templates are launched:
 
-- [Subscribe to the _#announcement_ channel on Discord](https://discord.gg/z8wNYzb)
-- [Follow us on Twitter](https://twitter.com/GetResearchDev)
-- [Subscribe to the Hugo Blox blog](https://hugoblox.com/blog/)
+Link: <https://www.vazymebiotech.com>
 
-## Further Resources
 
-- [Hugo Forums](https://discourse.gohugo.io/) for help installing Hugo and resolving Hugo error messages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a name="_hlk103771168"></a>**Sino Biological** 
+
+Sino Biological is dedicated to providing the scientific community with high-quality recombinant protein and antibody reagents promoting life science research and drug discovery. 
+
+With the largest validated recombinant protein bank (6500+), Sino Biological offers an extensive selection of antigens including viral proteins, cytokines, growth factors, immune checkpoints, antigens for therapeutic targets, Fc receptors and biomarker proteins. Furthermore, we have independently developed a comprehensive collection of high-quality monoclonal mouse and rabbit antibodies, including neutralizing antibodies and antibody pairs, to support scientific and clinical research.
+
+As the specialist in protein recombinant expression and antibody development, Sino Biological is the one-stop shop for robust customized CRO services. In addition, they have developed several cutting-edge technologies to accelerate pharmaceutical and pre-clinical antibody drug development, featuring VLPs-based membrane protein expression, nanobody production, Beacon-based single cell sorting antibody development, antibody humanization, anti-idiotypic antibody development and AI-powered antibody affinity maturation. 
+
+Sino Biological Europe GmbH is located in Frankfurt with a local sales and service team as well as our comprehensive protein inventory. These facilities enable Sino Biological to deliver high-quality products and services with competitive lead times to our European customers.
+
+![](Aspose.Words.781e598a-ceb8-405c-b2c5-c627540d9a56.003.png)
+
+Link: https://www.sinobiological.com/
