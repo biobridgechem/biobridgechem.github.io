@@ -11,8 +11,8 @@ Unite and empower the Chinese Chem and Bio community through collaboration and k
 
 Our team is composed of dedicated individuals who share a passion for Chemistry and Biology.
 
-|<p></p>|<p></p>|
-| :-: | :-: |
+|                |                                              |
+|----------------|----------------------------------------------|
 |<p></p><p>**Zutao Yu** (Director)</p><p>Senior Research Associate, Yusuf Hamied Department of Chemistry, University of Cambridge</p><p></p>| <br>![zutao](Aspose.Words.600e1816-aab6-4441-b88a-432846f77655.001.png)|
 |<p></p><p>**Shenglin Cai** (Director)</p><p>Research Associate, Yusuf Hamied Department of Chemistry, University of Cambridge</p><p></p>| <br>![shenglin](Aspose.Words.600e1816-aab6-4441-b88a-432846f77655.002.png)|
 |<p></p><p>**Yuqi Chen** (Director)</p><p>Research Associate, Yusuf Hamied Department of Chemistry, University of Cambridge</p><p></p>| <br>![yuqi](Aspose.Words.600e1816-aab6-4441-b88a-432846f77655.003.png)|
