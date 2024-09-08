@@ -13,27 +13,13 @@ Our team is composed of dedicated individuals who share a passion for Chemistry 
 
 |<p></p><p>**Zutao Yu** (Director)</p><p>Senior Research Associate, Yusuf Hamied Department of Chemistry, University of Cambridge</p><p></p>|<p></p><p>**Shenglin Cai** (Director)</p><p>Research Associate, Yusuf Hamied Department of Chemistry, University of Cambridge</p><p></p>|
 | :-: | :-: |
-|![A person standing in front of a building
-
-Description automatically generated](Aspose.Words.600e1816-aab6-4441-b88a-432846f77655.001.png)|![A person wearing glasses and smiling
-
-Description automatically generated](Aspose.Words.600e1816-aab6-4441-b88a-432846f77655.002.png)|
+|![zutao](Aspose.Words.600e1816-aab6-4441-b88a-432846f77655.001.png)|![shenglin](Aspose.Words.600e1816-aab6-4441-b88a-432846f77655.002.png)|
 |<p></p><p>**Yuqi Chen** (Director)</p><p>Research Associate, Yusuf Hamied Department of Chemistry, University of Cambridge</p><p></p>|<p></p><p>**Xiaodan Liu** (Director, Finance Minister)</p><p>Scientist at RNAvate</p><p></p>|
-|![A person wearing glasses smiling
-
-Description automatically generated](Aspose.Words.600e1816-aab6-4441-b88a-432846f77655.003.png)|![A person smiling at the camera
-
-Description automatically generated](Aspose.Words.600e1816-aab6-4441-b88a-432846f77655.004.jpeg)|
+|![yuqi](Aspose.Words.600e1816-aab6-4441-b88a-432846f77655.003.png)|![xiaodan](Aspose.Words.600e1816-aab6-4441-b88a-432846f77655.004.jpeg)|
 |<p></p><p>**Lin Su** (Secretary)</p><p>Postdoctoral Research Fellow, Yusuf Hamied Department of Chemistry, University of Cambridge</p><p></p>|<p></p><p>**Wenlong Li** (Secretary)</p><p>Postdoctoral Research Associate, CRUK Cambridge Institute</p>|
-|![A person wearing glasses and a grey shirt
-
-Description automatically generated](Aspose.Words.600e1816-aab6-4441-b88a-432846f77655.005.jpeg)|![A person in a suit holding a red rolled up paper
-
-Description automatically generated](Aspose.Words.600e1816-aab6-4441-b88a-432846f77655.006.png)|
+|![Lin](Aspose.Words.600e1816-aab6-4441-b88a-432846f77655.005.jpeg)|![wenlong](Aspose.Words.600e1816-aab6-4441-b88a-432846f77655.006.png)|
 |<p></p><p>**Yuqiong Zhang (**Accountant Associate**)**</p><p></p><p></p><p></p>||
-|![A person wearing a black and white robe
-
-Description automatically generated](Aspose.Words.600e1816-aab6-4441-b88a-432846f77655.007.jpeg)||
+|![yuqiong](Aspose.Words.600e1816-aab6-4441-b88a-432846f77655.007.jpeg)||
 
 **Contact Us**
 
