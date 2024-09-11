@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: CHEM&BIO seminar
-      text: ZT & XD 带你看世界 🎉
+      text: 一起看世界 🎉
       primary_action:
         text: Attend Our Next Seminar
         url: https://knowinno.net/lnk/t/M2EQAm8
@@ -34,7 +34,7 @@ sections:
         color: ""
         image:
           # Add your image background to `assets/media/`.
-          filename: "DSC02362.JPG"
+          filename: "bg.JPG"
           filters:
             brightness: 1.2
   - block: stats
