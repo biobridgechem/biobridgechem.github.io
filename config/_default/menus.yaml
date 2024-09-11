@@ -11,9 +11,9 @@ main:
   - name: Event
     url: event/
     weight: 30
-  - name: News
-    url: news/
-    weight: 40
+#  - name: News
+#    url: news/
+#    weight: 40
   - name: Partnership
     url: partnership/
     weight: 50
