@@ -36,7 +36,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: "bg.JPG"
           filters:
-            brightness: 1.2
+            brightness: 1.0
   - block: stats
     content:
       items:
