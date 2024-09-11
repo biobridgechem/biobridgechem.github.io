@@ -34,7 +34,7 @@ sections:
         color: ""
         image:
           # Add your image background to `assets/media/`.
-          filename: "bg.JPG"
+          filename: "DSC02362.JPG"
           filters:
             brightness: 1.0
   - block: stats
