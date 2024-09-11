@@ -14,7 +14,7 @@ sections:
       text: ZT & XD 带你看世界 🎉
       primary_action:
         text: Attend Our Next Seminar
-        url: https://letsinno.com/lnk/t/q2AiqeW
+        url: https://knowinno.net/lnk/t/M2EQAm8
         icon: rocket-launch
       secondary_action:
         text: Previous Seminars 
