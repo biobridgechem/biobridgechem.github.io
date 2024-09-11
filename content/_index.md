@@ -20,7 +20,7 @@ sections:
         text: Previous Seminars 
         url: /event/
       announcement:
-        text: "Interested in joing the team?"
+        text: "Interested in joining the team?"
         link:
           text: "Read more"
           url: "/about/"
@@ -53,7 +53,7 @@ sections:
             Attendees 
           #  for support
     design:
-      # Section background color (CSS class)
+      # Section background colour (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-800"
       # Reduce spacing
       spacing:
