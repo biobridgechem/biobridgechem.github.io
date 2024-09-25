@@ -11,14 +11,15 @@ tags:
 ![2](202212.jpg)
 
 
-![Alarm clock with solid fill](Aspose.Words.6fbfb5c6-2e9d-4ed7-afdb-c87fe0d94474.002.png) 
-**Time**: 17th December 2022 @10:00am
+**Time**
 
-![Marker with solid fill](Aspose.Words.6fbfb5c6-2e9d-4ed7-afdb-c87fe0d94474.003.png) **Location**
+17th December 2022 @10:00am
+
+**Location**
 
 Eddington postdoc center, Sanders Hall (Block E)
 
-![Radio microphone with solid fill](Aspose.Words.6fbfb5c6-2e9d-4ed7-afdb-c87fe0d94474.004.png) **Speakers and titles**
+**Speakers and titles**
 
 Shenglin Cai, “Development of single-molecule digital platform for biomedical applications”
 
