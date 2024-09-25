@@ -4,14 +4,7 @@
 title: Event_2022/12
 summary: Our second event!
 date: 2022-12-17
-authors:
-  - admin
-# tags:
-#  - Hugo
-#  - Hugo Blox
-#  - Markdown
-# image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+
 
 
 ![Alarm clock with solid fill](Aspose.Words.6fbfb5c6-2e9d-4ed7-afdb-c87fe0d94474.002.png) **Time**
