@@ -22,7 +22,7 @@ cascade:
     show_date_updated: true
   # Blog post options
   - _target:
-      path: /blog/**
+      path: /event/**
       kind: page
     pager: true
     editable: true
