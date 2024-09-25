@@ -1,8 +1,15 @@
-﻿---
-title: Event_2022/12
-summary: Our second event!
-date: 2022-12-17
-
+---
+title: v1.0.0 Released!
+summary: Hugo v1.0.0 released. Download now and follow the guide to get started in 5 minutes!
+date: 2023-01-01
+authors:
+  - admin
+tags:
+  - Hugo
+  - Hugo Blox
+  - Markdown
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
 ![2](202212.jpg)
