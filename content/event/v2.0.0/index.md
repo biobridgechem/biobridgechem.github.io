@@ -1,5 +1,5 @@
 ﻿
-![A pink and white cell phone screen Description automatically generated](2 poster_202212.jpg)
+![2](202212.jpg)
 
 title: Event_2022/12
 summary: Our second event!
