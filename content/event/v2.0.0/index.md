@@ -1,5 +1,5 @@
 ---
-title: Our 2nd event!
+title: 2nd event!
 summary: 17th December 2022 @10:00am!
 date: 2022-12-17
 authors:
@@ -8,7 +8,7 @@ tags:
   - event
 ---
 
-![2](202212.jpg)
+![poster](202212.jpg)
 
 **Speakers and titles**
 
@@ -19,4 +19,3 @@ Zijian Fang, “The anti-leukemic effect of Tamoxifen in Myeloproliferative neop
 Zhen Wang, “Improving the colour purity of photonic glass pigments”
 
 Yanli Zhang, “Tumor microenvironment”
-
