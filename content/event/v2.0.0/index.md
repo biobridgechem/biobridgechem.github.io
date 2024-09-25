@@ -6,8 +6,6 @@ authors:
   - admin
 tags:
   - event
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
 ![2](202212.jpg)
