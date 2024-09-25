@@ -10,15 +10,6 @@ tags:
 
 ![2](202212.jpg)
 
-
-**Time**
-
-17th December 2022 @10:00am
-
-**Location**
-
-Eddington postdoc center, Sanders Hall (Block E)
-
 **Speakers and titles**
 
 Shenglin Cai, “Development of single-molecule digital platform for biomedical applications”
