@@ -11,9 +11,8 @@ tags:
 ![2](202212.jpg)
 
 
-![Alarm clock with solid fill](Aspose.Words.6fbfb5c6-2e9d-4ed7-afdb-c87fe0d94474.002.png) **Time**
-
-17th December 2022 @10:00am
+![Alarm clock with solid fill](Aspose.Words.6fbfb5c6-2e9d-4ed7-afdb-c87fe0d94474.002.png) 
+**Time**: 17th December 2022 @10:00am
 
 ![Marker with solid fill](Aspose.Words.6fbfb5c6-2e9d-4ed7-afdb-c87fe0d94474.003.png) **Location**
 
