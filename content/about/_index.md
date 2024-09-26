@@ -1,7 +1,7 @@
 ﻿
 **Chem&Bio** 
 
-We are a vibrant and dynamic community founded in 2023, bringing together passionate scholars, students, and professionals from the fields of Chemistry and Biology. Our mission is to foster a collaborative environment where the Chinese community in these disciplines can thrive, share knowledge, and contribute to scientific advancements.
+We are a vibrant and dynamic community founded in 2022, bringing together passionate scholars, students, and professionals from the fields of Chemistry and Biology. Our mission is to foster a collaborative environment where the Chinese community in these disciplines can thrive, share knowledge, and contribute to scientific advancements.
 
 **Mission**
 
