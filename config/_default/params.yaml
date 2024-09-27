@@ -42,7 +42,7 @@ header:
     button:
       enable: true
       text: "Contact Us"
-      url: "mailto:linsu.hub@gmail.com"
+      url: "mailto:biobridgechem@gmail.com"
     show_search: true
     show_theme_chooser: true
 
