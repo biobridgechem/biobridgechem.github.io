@@ -32,6 +32,7 @@ We would love to hear from you! Whether you have questions, suggestions, or woul
 You can contact us via:
 
 Email: biobridgechem at gmail dot com
+
 Linkedin: www.linkedin.com/in/biobridgechem
 
 We’re here to support you and answer any queries you may have.
