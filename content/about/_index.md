@@ -16,7 +16,8 @@ Our team is composed of dedicated individuals who share a passion for Chemistry 
 |<p></p><p>**Zutao Yu** (Director)</p><p>Senior Research Associate, Yusuf Hamied Department of Chemistry, University of Cambridge</p><p></p>| <br>![zutao](zutao.png)|
 |<p></p><p>**Shenglin Cai** (Director)</p><p>Research Associate, Yusuf Hamied Department of Chemistry, University of Cambridge</p><p></p>| <br>![shenglin](Shenglin.png)|
 |<p></p><p>**Xiaodan Liu** (Director, Finance Minister)</p><p>Scientist at RNAvate</p><p></p>| <br>![xiaodan](Xiaodan.png)|
-|<p></p><p>**Lin Su** (Secretary)</p><p>Postdoctoral Research Fellow, Yusuf Hamied Department of Chemistry, University of Cambridge</p><p></p>| <br>![Lin](Lin.png)|
+|<p></p><p>**Lin Su** </p><p>Postdoctoral Research Fellow, Yusuf Hamied Department of Chemistry, University of Cambridge</p><p></p>| <br>![Lin](Lin.png)|
+|<p></p><p>**Tao Yan** </p><p>Researcher, Illumina</p><p></p>| <br>![Tao](Tao.png)|
 |<p></p><p>**Wenlong Li** (Secretary)</p><p>Postdoctoral Research Associate, CRUK Cambridge Institute</p>| <br>![wenlong](Wenlong.png)|
 |<p></p><p>**Yuqiong Zhang** (Accountant Associate)</p><p></p><p></p><p></p>| <br>![yuqiong](Yuqiong.png)|
 |<p></p><p>**Ying Liu** </p><p>Research Associate, Yusuf Hamied Department of Chemistry, University of Cambridge</p><p></p>| <br>![Ying](Ying.png)|
