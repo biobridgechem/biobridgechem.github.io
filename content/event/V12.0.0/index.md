@@ -12,8 +12,8 @@ tags:
 
 **Speakers and titles**
 
-Dr Yan Liu (Keynote Speaker), â€œGlycan microarrays: decoding microbe-host interactionsâ€?
+Professor Haiyan Zhou (Keynote Speaker), Saving Sense by Antisense, in Neuropathies and Beyond
 
-Dr Yongpeng Liu, â€œSynthetic and biological photoelectrocatalysts for solar chemicalsâ€?
+Dr Kim C. Liu, Automation for Reprogramming the Genetic Code
 
-Dr Zhen He, â€œPhotoinduced Cu(Il)-mediated decarboxylative thianthrenation of aryl and heteroaryl carboxylic acidsâ€
+Dr Haopeng Yu, Decoding the RNA lanquage with Al-driven Foundation Model
