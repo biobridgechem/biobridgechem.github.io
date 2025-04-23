@@ -3,7 +3,7 @@ title: 12th Event!
 summary: 14th December 2024 @10:00am!
 date: 2024-12-04
 authors:
-  - Haowei
+  - admin
 tags:
   - event
 ---
