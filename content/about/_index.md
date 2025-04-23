@@ -22,6 +22,8 @@ Our team is composed of dedicated individuals who share a passion for Chemistry 
 |<p></p><p>**Yuqiong Zhang** (Accountant Associate)</p><p></p><p></p><p></p>| <br>![yuqiong](Yuqiong.png)|
 |<p></p><p>**Ying Liu** </p><p>Research Associate, Yusuf Hamied Department of Chemistry, University of Cambridge</p><p></p>| <br>![Ying](Ying.png)|
 |<p></p><p>**Liu Shi** </p><p>Associate Director, Nxera pharma</p><p></p>| <br>![Liu](Liu.png)|
+|<p></p><p>**Jingxiu Xu** </p><p>Postdoctoral Fellow, Department of Biochemistry, Cambridge of University.</p><p></p>| <br>![Jingxiu](jingxiu.jpg)|
+|<p></p><p>**Haowen Zhao** </p><p>PhD student, Yusuf Hamied Department of Chemistry, University of Cambridge.</p><p></p>| <br>![Jingxiu](jingxiu.jpg)|
 
 **2022-2024**
 
