@@ -24,6 +24,8 @@ Our team is composed of dedicated individuals who share a passion for Chemistry 
 |<p></p><p>**Liu Shi** </p><p>Associate Director, Nxera pharma</p><p></p>| <br>![Liu](Liu.png)|
 |<p></p><p>**Jingxiu Xu** </p><p>Postdoctoral Fellow, Department of Biochemistry, Cambridge of University.</p><p></p>| <br>![Jingxiu](jingxiu.jpg)|
 |<p></p><p>**Haowen Zhao** </p><p>PhD student, Yusuf Hamied Department of Chemistry, University of Cambridge.</p><p></p>| <br>![Haowen](haowen.jpg)|
+|<p></p><p>**Haowen Zhao** </p><p>PhD Ph.D. student under the supervision of Prof. Tuomas Knowles at Yusuf Hamied Department of Chemistry, Cambridge. Main research interests include droplet microfluidics-based biotechnology development, soft material science and engineering, and biophysics.</p><p></p>| <br>![Yangteng](Yangteng.jpg)|
+
 
 **2022-2024**
 
