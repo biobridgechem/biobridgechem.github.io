@@ -24,6 +24,9 @@ organizations:
   - name: University of Cambridge
     url: https://www.cam.ac.uk/
 
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include building biohybrid systems to perform semi-artificial photosynthesis and designing bioelectronic sensors for information exchanges.
+
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -49,7 +52,8 @@ highlight_name: true
 
 # Author's website URL
 website: ""
-
+---
+---
 # Display name
 title: 杨浩威
 
