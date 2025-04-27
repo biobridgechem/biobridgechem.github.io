@@ -3,7 +3,7 @@ title: 14th Event!
 summary: 10th May 2025 @10:00am!
 date: 2025-05-10
 authors:
-  - admin
+  - Haowei
 tags:
   - event
 ---
