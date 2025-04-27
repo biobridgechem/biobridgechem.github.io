@@ -1,6 +1,6 @@
 ---
 title: 14th Event!
-summary: 14th May 2025 @10:00am!
+summary: 10th May 2025 @10:00am!
 date: 2025-05-10
 authors:
   - Haowei
