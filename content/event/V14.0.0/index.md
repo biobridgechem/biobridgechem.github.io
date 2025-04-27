@@ -8,7 +8,7 @@ tags:
   - event
 ---
 
-![poster](240510.jpg)
+![poster](250510.jpg)
 
 **Speakers and titles**
 
