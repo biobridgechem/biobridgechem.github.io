@@ -14,7 +14,7 @@ sections:
       text: 一起看世界 🎉
       primary_action:
         text: Attend Our Next Seminar
-        url: https://mingmazhichuang.com/lnk/t/2YFyK35
+        url: https://mingmazhichuang.com/lnk/t/hKFBhY3
         icon: rocket-launch
       secondary_action:
         text: Previous Seminars 
