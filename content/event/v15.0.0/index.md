@@ -1,20 +1,22 @@
 ---
 title: 12th Event!
-summary: 14th December 2024 @10:00am!
-date: 2024-12-04
+summary: 28th June 2025 @10:00am!
+date: 2025-06-28
 authors:
   - admin
 tags:
   - event
 ---
 
-![poster](202412.png)
+![poster](20f8a075c0abb25493e4e6a632b5b5cd.jpg)
 
 **Speakers and titles**
 
-Professor Haiyan Zhou (Keynote Speaker), Saving Sense by Antisense, in Neuropathies and Beyond
+Professor Zhugen Yang (Keynote speaker), Cranfield University
+Origami-paper microfluidics devices for point-of-care testing
 
-Dr Kim C. Liu, Automation for Reprogramming the Genetic Code
+Allan Sun, University of Sydney
+Mechano-biologicalmechanisms of cardiovascular diseaseand point-of-care translation
 
-Dr Haopeng Yu, Decoding the RNA lanquage with Al-driven Foundation Model
-
+Dr Ren Ren, Imperial College London
+Sandwich Strategy for Nanopore Single-Molecule Detection ofSmall Biomolecules
