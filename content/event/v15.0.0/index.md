@@ -19,5 +19,5 @@ Allan Sun, University of Sydney
 Mechano-biologicalmechanisms of cardiovascular diseaseand point-of-care translation
 
 Dr Ren Ren, Imperial College London
-Sandwich Strategy for Nanopore Single-Molecule Detection ofSmall Biomolecules
+Sandwich Strategy for Nanopore Single-Molecule Detection of Small Biomolecules
 ![picture](f174cb18bde64bb4950fcc0626434f8b.jpg)
