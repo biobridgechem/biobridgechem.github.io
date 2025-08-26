@@ -3,7 +3,7 @@ title: 15th Event!
 summary: 28th June 2025 @10:00am!
 date: 2025-06-28
 authors:
-  - admin
+  - Haowei
 tags:
   - event
 ---
