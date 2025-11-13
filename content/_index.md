@@ -14,7 +14,7 @@ sections:
       text: 一起看世界 🎉
       primary_action:
         text: Attend Our Next Seminar
-        url: [https://docs.google.com/forms/d/e/1FAIpQLSeBFjdyGePQMzcNXZ2eZovODaSRZeDIqTsw7o4FEZZKE72sFw/viewform?usp=dialog]
+        url: https://docs.google.com/forms/d/e/1FAIpQLSeBFjdyGePQMzcNXZ2eZovODaSRZeDIqTsw7o4FEZZKE72sFw/viewform?usp=dialog
         icon: rocket-launch
       secondary_action:
         text: Previous Seminars 
