@@ -1,7 +1,7 @@
 ---
 title: 17h Event!
-summary: 22nd February 2025 @10:00am!
-date: 2025-02-17
+summary: 30th November 2025 @10:00am!
+date: 2025-11-30
 authors:
   - admin
 tags:
