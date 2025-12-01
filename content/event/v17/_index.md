@@ -10,6 +10,6 @@ tags:
 
 ![poster](poster.jpg)
 
-**Speakers and titles**
+
 
 
