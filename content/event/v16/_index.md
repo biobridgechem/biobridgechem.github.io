@@ -1,5 +1,5 @@
 ---
-title: 第30届全英华人生命科学论坛
+title: 第三届全英华人生命科学论坛
 summary: September 2025
 date: 2025-09-11
 authors:
