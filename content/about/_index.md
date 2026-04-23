@@ -11,7 +11,7 @@ To unite and empower the Chinese community in Chemistry and Biology through coll
 
 Our team is composed of dedicated individuals who share a passion for Chemistry and Biology.
 
-|2024-2025|                                              |
+|2025-2026|                                              |
 |----------------|----------------------------------------------|
 |<p></p><p>**Shenglin Cai** (Director)</p><p>Research Associate, Yusuf Hamied Department of Chemistry, University of Cambridge</p><p></p>| <br>![Shenglin](Shenglin.png)|
 |<p></p><p>**Wenlong Li** (Secretary)</p><p>Postdoctoral Research Associate, CRUK Cambridge Institute</p>| <br>![wenlong](Wenlong.png)|
@@ -21,6 +21,7 @@ Our team is composed of dedicated individuals who share a passion for Chemistry 
 |<p></p><p>**Jingxiu Xu** </p><p>Postdoctoral Fellow, Department of Biochemistry, Cambridge of University.</p><p></p>| <br>![Jingxiu](jingxiu.jpg)|
 |<p></p><p>**Haowen Zhao** </p><p>PhD student, Yusuf Hamied Department of Chemistry, University of Cambridge.</p><p></p>| <br>![Haowen](haowen.jpg)|
 |<p></p><p>**Yangteng Ou** </p><p>Ph.D. student under the supervision of Prof. Tuomas Knowles at Yusuf Hamied Department of Chemistry, Cambridge. Main research interests include droplet microfluidics-based biotechnology development, soft material science and engineering, and biophysics.</p><p></p>| <br>![Yangteng](Yangteng.jpg)|
+|<p></p><p>**Haowei Yang** </p><p>Ph.D. student under the supervision of Prof. Tuomas Knowles at Yusuf Hamied Department of Chemistry, University of Cambridge. Research interests include microfluidics, protein design, and liquid-liquid phase separation.</p><p></p>| <br>![Haowei](haowei yang.jpg)|
 
 **Previous Members**
 
