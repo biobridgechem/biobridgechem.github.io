@@ -1,0 +1,8 @@
+{{ with . }}
+  {{ if strings.HasSuffix .Name ".svg" }}
+    <img src="{{ .RelPermalink }}" alt="" loading="lazy">
+  {{ else }}
+    {{ $logo := .Resize "480x webp" }}
+    <img src="{{ $logo.RelPermalink }}" alt="" width="{{ $logo.Width }}" height="{{ $logo.Height }}" loading="lazy">
+  {{ end }}
+{{ end }}
