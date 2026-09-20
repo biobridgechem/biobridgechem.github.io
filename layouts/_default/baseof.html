@@ -16,7 +16,10 @@
   {{ $social := (resources.Get "media/DSC02362.JPG").Fill "1200x630 webp" }}
   <meta property="og:image" content="{{ $social.Permalink }}">
   <meta name="twitter:card" content="summary_large_image">
-  <link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
+  {{ $logoSource := resources.Get "media/chembio-logo.png" }}
+  {{ $logo := $logoSource.Resize "160x webp" }}
+  {{ $favicon := $logoSource.Fit "64x64 png" }}
+  <link rel="icon" href="{{ $favicon.RelPermalink }}" type="image/png">
   {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ .Permalink }}">{{ end }}
   {{ $css := resources.Get "css/site.css" | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
@@ -27,7 +30,7 @@
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header">
     <div class="container header-inner">
-      <a class="brand" href="{{ "/" | relURL }}" aria-label="Cambridge Chem and Bio home"><span class="brand-mark" aria-hidden="true">C<span>↗</span>B</span><span class="brand-name">CHEM<span>&</span>BIO<small>CAMBRIDGE</small></span></a>
+      <a class="brand" href="{{ "/" | relURL }}" aria-label="Cambridge Chem and Bio home"><img class="brand-logo" src="{{ $logo.RelPermalink }}" alt="" width="{{ $logo.Width }}" height="{{ $logo.Height }}"><span class="brand-name">CHEM<span>&</span>BIO<small>CAMBRIDGE</small></span></a>
       <button class="menu-toggle" aria-expanded="false" aria-controls="primary-nav" hidden>Menu <span aria-hidden="true">☰</span></button>
       <nav id="primary-nav" aria-label="Main navigation">
         {{ $current := .RelPermalink }}
@@ -39,7 +42,7 @@
   <main id="main" tabindex="-1">{{ block "main" . }}{{ end }}</main>
   <footer class="site-footer">
     <div class="container footer-main">
-      <div><a class="footer-brand" href="{{ "/" | relURL }}">Cambridge Chem&Bio<span class="accent">.</span></a><p>Shared curiosity. New connections.<br>A community at the intersection of chemistry and biology.</p></div>
+      <div><a class="footer-brand" href="{{ "/" | relURL }}"><img class="brand-logo" src="{{ $logo.RelPermalink }}" alt="" width="{{ $logo.Width }}" height="{{ $logo.Height }}" loading="lazy"><span>Cambridge Chem&Bio<span class="accent">.</span></span></a><p>Shared curiosity. New connections.<br>A community at the intersection of chemistry and biology.</p></div>
       <div><h2>Explore</h2><a href="{{ "/event/" | relURL }}">Seminars & events</a><a href="{{ "/about/" | relURL }}">Our community</a><a href="{{ "/partnership/" | relURL }}">Our partners</a></div>
       <div><h2>Stay connected</h2><a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a><a href="{{ site.Params.linkedin }}">LinkedIn <span aria-hidden="true">↗</span></a><a href="{{ "/event/index.xml" | relURL }}">Seminar RSS feed</a></div>
     </div>
