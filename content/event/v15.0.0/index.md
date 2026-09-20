@@ -1,6 +1,6 @@
 ---
-title: 15th Event!
-summary: 28th June 2025 @10:00am!
+title: 15th Cambridge Chem&Bio Seminar
+summary: 28th June 2025 · 10:00 am
 date: 2025-06-28
 authors:
   - Haowei
@@ -8,9 +8,9 @@ tags:
   - event
 ---
 
-![poster](20f8a075c0abb25493e4e6a632b5b5cd.jpg)
+![Seminar poster and programme](20f8a075c0abb25493e4e6a632b5b5cd.jpg)
 
-**Speakers and titles**
+## Speakers and titles
 
 Professor Zhugen Yang (Keynote speaker), Cranfield University
 Origami-paper microfluidics devices for point-of-care testing

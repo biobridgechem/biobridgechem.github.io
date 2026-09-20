@@ -1,16 +1,16 @@
 ---
-title: 14th Event!
-summary: 10th May 2025 @10:00am!
-date: 2025-04-29
+title: 14th Cambridge Chem&Bio Seminar
+summary: 10th May 2025 · 10:00 am
+date: 2025-05-10
 authors:
   - Haowei
 tags:
   - event
 ---
 
-![poster](202505.png)
+![Seminar poster and programme](202505.png)
 
-**Speakers and titles**
+## Speakers and titles
 
 Professor Wenhui Song (Keynote speaker), "University College London, Engineering Self-assembled Nanomaterials Guiding Cell Fate andFunctions for Drug Discovery and Tissue Regeneration"
 

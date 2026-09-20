@@ -1,0 +1,8 @@
+{{ $image := .Page.Resources.GetMatch .Destination }}
+{{ if $image }}
+  {{ $display := $image }}
+  {{ if gt $image.Width 1200 }}{{ $display = $image.Resize "1200x webp" }}{{ end }}
+  <a class="content-image-link" href="{{ $image.RelPermalink }}" aria-label="Open full-size image: {{ .Text | plainify }}"><img src="{{ $display.RelPermalink }}" alt="{{ .Text | plainify }}" width="{{ $display.Width }}" height="{{ $display.Height }}" loading="lazy"{{ with .Title }} title="{{ . }}"{{ end }}></a>
+{{ else }}
+  <img src="{{ .Destination | safeURL }}" alt="{{ .Text | plainify }}" loading="lazy"{{ with .Title }} title="{{ . }}"{{ end }}>
+{{ end }}

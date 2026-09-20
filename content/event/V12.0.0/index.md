@@ -1,16 +1,16 @@
 ---
-title: 12th Event!
-summary: 14th December 2024 @10:00am!
-date: 2024-12-04
+title: 12th Cambridge Chem&Bio Seminar
+summary: 14th December 2024 · 10:00 am
+date: 2024-12-14
 authors:
   - admin
 tags:
   - event
 ---
 
-![poster](202412.png)
+![Seminar poster and programme](202412.png)
 
-**Speakers and titles**
+## Speakers and titles
 
 Professor Haiyan Zhou (Keynote Speaker), Saving Sense by Antisense, in Neuropathies and Beyond
 

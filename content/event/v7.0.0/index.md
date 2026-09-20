@@ -1,6 +1,6 @@
 ---
-title: 7th event!
-summary: 2nd December 2023 @10:00am!
+title: 7th Cambridge Chem&Bio Seminar
+summary: 2nd December 2023 · 10:00 am
 date: 2023-12-02
 authors:
   - admin
@@ -8,9 +8,9 @@ tags:
   - event
 ---
 
-![poster](202312.jpg)
+![Seminar poster and programme](202312.jpg)
 
-**Speakers and titles**
+## Speakers and titles
 
 Dr Yiliang Ding (Keynote speaker), “RNA structure, an important regulator in living cells”
 

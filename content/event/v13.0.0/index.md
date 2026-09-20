@@ -1,16 +1,16 @@
 ---
-title: 13th Event!
-summary: 22nd February 2025 @10:00am!
-date: 2025-02-17
+title: 13th Cambridge Chem&Bio Seminar
+summary: 22nd February 2025 · 10:00 am
+date: 2025-02-22
 authors:
   - admin
 tags:
   - event
 ---
 
-![poster](202502.png)
+![Seminar poster and programme](202502.png)
 
-**Speakers and titles**
+## Speakers and titles
 
 Prof Huiliang Li (Keynote Speaker), Oligodendrocytes: origin and role in neural plasticity and disease
 

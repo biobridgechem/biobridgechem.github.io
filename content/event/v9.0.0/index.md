@@ -1,6 +1,6 @@
 ---
-title: 9th event!
-summary: 27th April 2024 @10:00am!
+title: 9th Cambridge Chem&Bio Seminar
+summary: 27th April 2024 · 10:00 am
 date: 2024-04-27
 authors:
   - admin
@@ -8,9 +8,9 @@ tags:
   - event
 ---
 
-![poster](202404.jpg)
+![Seminar poster and programme](202404.jpg)
 
-**Speakers and titles**
+## Speakers and titles
 
 Prof Yan Yan Shery Huang (Keynote speaker), “Biofabrication of tissue and organ mimetics”
 

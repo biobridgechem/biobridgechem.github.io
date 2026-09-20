@@ -1,6 +1,6 @@
 ---
-title: 6th event!
-summary: 30th September 2023 @10:00am!
+title: 6th Cambridge Chem&Bio Seminar
+summary: 30th September 2023 · 10:00 am
 date: 2023-09-30
 authors:
   - admin
@@ -8,9 +8,9 @@ tags:
   - event
 ---
 
-![poster](202309.jpg)
+![Seminar poster and programme](202309.jpg)
 
-**Speakers and titles**
+## Speakers and titles
 
 Pan Zhu (Keynote speaker), “Transcriptional regulation of the flowering time gene FLC”
 

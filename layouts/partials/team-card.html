@@ -1,0 +1,2 @@
+{{ $member := .member }}
+<article class="team-card"><div class="team-photo">{{ with .page.Resources.GetMatch $member.image }}{{ $portrait := .Resize "600x webp" }}<img src="{{ $portrait.RelPermalink }}" alt="{{ $member.name }}" width="{{ $portrait.Width }}" height="{{ $portrait.Height }}" loading="lazy">{{ end }}</div><div class="team-info"><h3>{{ $member.name }}</h3>{{ with $member.role }}<p class="team-role">{{ . }}</p>{{ end }}{{ with $member.bio }}<p class="team-bio">{{ . }}</p>{{ end }}</div></article>

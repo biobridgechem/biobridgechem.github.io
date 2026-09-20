@@ -1,5 +1,8 @@
 ---
 title: Showcase
+draft: true
+cascade:
+  draft: true
 description: "Docs websites powered by Hugo Blox."
 type: landing
 

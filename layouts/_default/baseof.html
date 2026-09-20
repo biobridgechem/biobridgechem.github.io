@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ site.Title }} | Connecting science and people{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+  {{ $description := .Description | default .Params.summary | default site.Params.description }}
+  <meta name="description" content="{{ $description | plainify }}">
+  <meta name="theme-color" content="#102f3b">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <meta property="og:site_name" content="{{ site.Title }}">
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:description" content="{{ $description | plainify }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ .Permalink }}">
+  {{ $social := (resources.Get "media/DSC02362.JPG").Fill "1200x630 webp" }}
+  <meta property="og:image" content="{{ $social.Permalink }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
+  {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ .Permalink }}">{{ end }}
+  {{ $css := resources.Get "css/site.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+  {{ $js := resources.Get "js/site.js" | minify | fingerprint }}
+  <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="{{ "/" | relURL }}" aria-label="Cambridge Chem and Bio home"><span class="brand-mark" aria-hidden="true">C<span>↗</span>B</span><span class="brand-name">CHEM<span>&</span>BIO<small>CAMBRIDGE</small></span></a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="primary-nav" hidden>Menu <span aria-hidden="true">☰</span></button>
+      <nav id="primary-nav" aria-label="Main navigation">
+        {{ $current := .RelPermalink }}
+        {{ range site.Menus.main }}<a href="{{ .URL | relURL }}" {{ if or (eq $current .URL) (and (ne .URL "/") (hasPrefix $current .URL)) }}aria-current="page"{{ end }}>{{ .Name }}</a>{{ end }}
+        <a class="button button-small" href="{{ "/contact/" | relURL }}">Get in touch <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+  <main id="main" tabindex="-1">{{ block "main" . }}{{ end }}</main>
+  <footer class="site-footer">
+    <div class="container footer-main">
+      <div><a class="footer-brand" href="{{ "/" | relURL }}">Cambridge Chem&Bio<span class="accent">.</span></a><p>Shared curiosity. New connections.<br>A community at the intersection of chemistry and biology.</p></div>
+      <div><h2>Explore</h2><a href="{{ "/event/" | relURL }}">Seminars & events</a><a href="{{ "/about/" | relURL }}">Our community</a><a href="{{ "/partnership/" | relURL }}">Our partners</a></div>
+      <div><h2>Stay connected</h2><a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a><a href="{{ site.Params.linkedin }}">LinkedIn <span aria-hidden="true">↗</span></a><a href="{{ "/event/index.xml" | relURL }}">Seminar RSS feed</a></div>
+    </div>
+    <div class="container footer-bottom"><span>© {{ now.Year }} Cambridge Chem&Bio · Community since 2022</span><span>Content: <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></span></div>
+  </footer>
+</body>
+</html>

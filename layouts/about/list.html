@@ -1,0 +1,7 @@
+{{ define "main" }}
+<section class="page-hero"><div class="container"><p class="eyebrow">OUR COMMUNITY</p><h1>Connected by curiosity<span class="accent">.</span></h1><p>Bringing the Chinese chemistry and biology community together in Cambridge, since 2022.</p></div></section>
+<section class="section container about-intro"><div><p class="eyebrow">WHO WE ARE</p><h2>Shared interests.<br>Stronger connections.</h2><div class="prose">{{ .Content }}</div></div><aside class="mission-card"><h3>Our mission</h3><p>To unite and empower the Chinese community in chemistry and biology through collaboration and knowledge sharing.</p></aside></section>
+<section class="section container team-section"><div class="team-heading"><h2>Meet the team.</h2><span>2025–2026 organising team</span></div><div class="team-grid">{{ range .Params.team }}{{ partial "team-card.html" (dict "member" . "page" $) }}{{ end }}</div></section>
+<section class="section alumni-section"><div class="container"><div class="team-heading"><h2>Previous members.</h2><span>The people who helped build our community</span></div><div class="team-grid">{{ range .Params.alumni }}{{ partial "team-card.html" (dict "member" . "page" $) }}{{ end }}</div><p class="founding-note"><strong>2022–2024 team</strong><br>Zutao Yu, Shenglin Cai, Yuqi Chen, Xiaodan Liu, Wenlong Li, Lin Su, Tao Yan and Yuqiong Zhang.</p></div></section>
+{{ partial "join.html" . }}
+{{ end }}

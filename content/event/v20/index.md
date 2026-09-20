@@ -8,42 +8,43 @@ tags:
   - event
 ---
 
-![poster](poster.jpg)
+![Seminar poster and programme](poster.jpg)
 
-**Time and venue**
+## Time and venue
 
 Saturday 04 July | 10 am - 2 pm
 
 Sanders Hall (Block E), Eddington Postdoc Centre
 
-**Speakers and titles**
+## Speakers and titles
 
-Dr Fengzhu Xiong (Group leader, Keynote speaker), Gurdon Institute, University of Cambridge
+### Dr Fengzhu Xiong · Keynote speaker
+
+Group leader, Gurdon Institute, University of Cambridge
 
 Sculpting embryos with mechanics
 
-Dr Chang Chen, University of Cambridge
+### Dr Chang Chen
+
+University of Cambridge
 
 Microfluidics: bridging natural and synthetic cellular life
 
-Dr Jing Wang, University of Cambridge
+### Dr Jing Wang
+
+University of Cambridge
 
 High-throughput deep mutational scanning platform for epitope binning and evolution prediction
 
-**Schedule**
+## Schedule
 
-10:00-10:30 - Registration
-
-10:30-10:40 - Introduction by Chair
-
-10:40-11:10 - Invited Speaker 1: Dr Chang Chen
-
-11:10-11:40 - Invited Speaker 2: Dr Jing Wang
-
-11:40-11:50 - Sponsor's spotlight talk
-
-11:50-12:15 - Tea Break
-
-12:15-13:00 - Keynote Speaker: Dr Fengzhu Xiong
-
-13:00-14:00 - Networking and Lunch
+| Time | Programme |
+| --- | --- |
+| 10:00–10:30 | Registration |
+| 10:30–10:40 | Introduction by the chair |
+| 10:40–11:10 | Invited speaker: Dr Chang Chen |
+| 11:10–11:40 | Invited speaker: Dr Jing Wang |
+| 11:40–11:50 | Sponsor spotlight talk |
+| 11:50–12:15 | Tea break |
+| 12:15–13:00 | Keynote speaker: Dr Fengzhu Xiong |
+| 13:00–14:00 | Networking and lunch |

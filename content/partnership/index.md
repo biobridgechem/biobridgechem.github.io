@@ -1,23 +1,13 @@
-﻿**MCE**
-
-MedChemExpress (MCE) – Master of Bioactive Molecules 
-
-MedChemExpress (MCE) offers a wide range of high-quality research chemicals and biochemicals (novel life-science reagents, reference compounds and natural compounds) for scientific use. They have professionally experienced and friendly staff to meet your needs. Their scientific team is highly experienced and has a successful track record in molecular synthesis. They are proficient in the synthesis of milligram to kilogram scale of structurally diverse and synthetically challenging molecules. They are customer-oriented and work closely with them to meet their need.
-
-![MCE](Aspose.Words.781e598a-ceb8-405c-b2c5-c627540d9a56.001.png)
-
-*Link:* <https://www.medchemexpress.com/?srsltid=AfmBOoqqPmrHa_d0GL4VaWly0IDahGaAdo_L-KWgs5tjPi4agLkezhe1>
-
-**Sino Biological** 
-
-Sino Biological is dedicated to providing the scientific community with high-quality recombinant protein and antibody reagents promoting life science research and drug discovery. 
-
-With the largest validated recombinant protein bank (6500+), Sino Biological offers an extensive selection of antigens including viral proteins, cytokines, growth factors, immune checkpoints, antigens for therapeutic targets, Fc receptors and biomarker proteins. Furthermore, we have independently developed a comprehensive collection of high-quality monoclonal mouse and rabbit antibodies, including neutralizing antibodies and antibody pairs, to support scientific and clinical research.
-
-As the specialist in protein recombinant expression and antibody development, Sino Biological is the one-stop shop for robust customized CRO services. In addition, they have developed several cutting-edge technologies to accelerate pharmaceutical and pre-clinical antibody drug development, featuring VLPs-based membrane protein expression, nanobody production, Beacon-based single cell sorting antibody development, antibody humanization, anti-idiotypic antibody development and AI-powered antibody affinity maturation. 
-
-Sino Biological Europe GmbH is located in Frankfurt with a local sales and service team as well as our comprehensive protein inventory. These facilities enable Sino Biological to deliver high-quality products and services with competitive lead times to our European customers.
-
-![Sino](Aspose.Words.781e598a-ceb8-405c-b2c5-c627540d9a56.003.png)
-
-*Link:* https://www.sinobiological.com/
+---
+title: Our partners
+description: Meet the organisations supporting Cambridge Chem&Bio and find out how to partner with our scientific community.
+partners:
+  - name: MedChemExpress
+    image: Aspose.Words.781e598a-ceb8-405c-b2c5-c627540d9a56.001.png
+    url: https://www.medchemexpress.com/
+    description: MedChemExpress (MCE) provides research chemicals and biochemicals for scientific use, including bioactive molecules, reference compounds and natural compounds. Its scientific team also offers custom molecular synthesis services.
+  - name: Sino Biological
+    image: Aspose.Words.781e598a-ceb8-405c-b2c5-c627540d9a56.003.png
+    url: https://www.sinobiological.com/
+    description: Sino Biological provides recombinant proteins, antibodies and research services to support life science research and drug discovery. Its capabilities include protein expression, antibody development and custom research services, with a local sales and service team in Europe.
+---

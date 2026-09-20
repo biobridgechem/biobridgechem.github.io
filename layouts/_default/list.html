@@ -1,0 +1,1 @@
+{{ define "main" }}<section class="page-hero"><div class="container"><p class="eyebrow">CAMBRIDGE CHEM&BIO</p><h1>{{ .Title }}</h1></div></section><section class="container section prose">{{ .Content }}{{ range .Pages }}<h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>{{ end }}</section>{{ end }}

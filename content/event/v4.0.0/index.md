@@ -1,6 +1,6 @@
 ---
-title: 4th event!
-summary: 22nd April 2023 @10:00am!
+title: 4th Cambridge Chem&Bio Seminar
+summary: 22nd April 2023 · 10:00 am
 date: 2023-04-22
 authors:
   - admin
@@ -8,9 +8,9 @@ tags:
   - event
 ---
 
-![poster](202304.jpg)
+![Seminar poster and programme](202304.jpg)
 
-**Speakers and titles**
+## Speakers and titles
 
 Lin Su, “Real-time bioelectronic sensing of environmental contaminants”
 

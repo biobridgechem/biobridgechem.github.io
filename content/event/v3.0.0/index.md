@@ -1,6 +1,6 @@
 ---
-title: 3rd event!
-summary: 18th February 2023 @10:00am!
+title: 3rd Cambridge Chem&Bio Seminar
+summary: 18th February 2023 · 10:00 am
 date: 2023-02-18
 authors:
   - admin
@@ -8,9 +8,9 @@ tags:
   - event
 ---
 
-![poster](202302.jpg)
+![Seminar poster and programme](202302.jpg)
 
-**Speakers and titles**
+## Speakers and titles
 
 Zutao Yu, “Chem-map p ofiles drug binding to chromatin in cells”
 

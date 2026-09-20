@@ -1,98 +1,30 @@
-# Configuration of Hugo
-# Guide: https://docs.hugoblox.com/tutorial/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-title: "Chem&Bio Seminar" # Website name
-baseURL: 'https://biobridgechem.github.io/' # Website URL
-
-############################
-## PAGE OPTIONS
-############################
-
-cascade:
-  # Docs folder options
-  - _target:
-      path: /docs/**
-    editable: true
-    show_breadcrumb: true
-    # Hide date from Next In Series
-    show_date: false
-    # Show date modified at end of content
-    show_date_updated: true
-  # Blog post options
-  - _target:
-      path: /event/**
-      kind: page
-    pager: true
-    editable: true
-    hide_date: false
-    show_date_updated: true
-    reading_time: true
-    commentable: true
-    show_related: true
-    share: true
-    # Just use Breadcrumb for navigation on blog post pages?
-    show_breadcrumb: false
-    header:
-      navbar:
-        enable: true
-
-############################
-## LANGUAGE
-############################
-
+title: Cambridge Chem&Bio
+baseURL: https://biobridgechem.co.uk/
+languageCode: en-GB
 defaultContentLanguage: en
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
-removePathAccents: true
-
-############################
-## ADVANCED
-############################
-
-build:
-  writeStats: true
-enableGitInfo: false
-summaryLength: 30
-paginate: 10
-enableEmoji: true
+hasCJKLanguage: true
 enableRobotsTXT: true
-footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
-enableInlineShortcodes: true
-permalinks:
-  authors: '/author/:slug/'
-  tags: '/tag/:slug/'
-  categories: '/category/:slug/'
-disableAliases: true
+enableGitInfo: false
+buildFuture: true
+summaryLength: 30
+paginate: 24
+disableKinds: [taxonomy, term]
 outputs:
-  home: [HTML, RSS, WebAppManifest, headers, redirects, backlinks]
-  page: [HTML]
+  home: [HTML, RSS]
   section: [HTML, RSS]
+  page: [HTML]
+permalinks:
+  authors: /author/:slug/
 imaging:
+  quality: 82
   resampleFilter: lanczos
-  quality: 85
   anchor: smart
-timeout: 600000
-taxonomies:
-  tag: tags
-  category: categories
-  author: authors
 markup:
-  _merge: deep
-related:
-  threshold: 80
-  includeNewer: true
-  toLower: true
-  indices:
-    - name: tags
-      weight: 100
-    - name: categories
-      weight: 70
-security:
-  _merge: deep
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
 sitemap:
-  _merge: deep
-minify:
-  _merge: deep
+  changeFreq: monthly
+  priority: 0.5
