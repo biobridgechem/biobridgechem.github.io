@@ -44,7 +44,9 @@ jobs:
         HUGO_ENVIRONMENT: production
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-        hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+        # Use the canonical HTTPS domain configured in config/_default/hugo.yaml.
+        # Pages currently reports an HTTP base URL for this custom domain.
+        hugo --gc --minify
     - name: Check generated pages and local links
       run: python3 scripts/check_site.py
     - name: Upload artifact
