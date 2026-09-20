@@ -1,5 +1,6 @@
 ---
 title: Our partners
+type: partnership
 description: Meet the organisations supporting Cambridge Chem&Bio and find out how to partner with our scientific community.
 partners:
   - name: MedChemExpress

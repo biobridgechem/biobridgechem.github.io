@@ -69,6 +69,19 @@ def main():
     for required in ('index.html', 'about/index.html', 'event/index.html', 'partnership/index.html', 'contact/index.html', '404.html'):
         if required not in pages:
             errors.append('Missing required page: ' + required)
+    expected_content = {
+        'index.html': ('Connecting science.', 'hero-visual'),
+        'about/index.html': ('Connected by curiosity', 'Chang Chen', 'Yang Liu'),
+        'event/index.html': ('seminar-search', 'seminar-year'),
+        'partnership/index.html': ('Supporting discovery.', 'partner-card', 'MedChemExpress', 'Sino Biological'),
+        'contact/index.html': ('Start a conversation', 'contact-options', 'Join the team'),
+    }
+    for name, markers in expected_content.items():
+        if name in files:
+            rendered = files[name].read_text(encoding='utf-8')
+            for marker in markers:
+                if marker not in rendered:
+                    errors.append(f'{name}: Missing expected page content: {marker}')
     about = files.get('about/index.html')
     archive = files.get('event/index.html')
     expected_profiles = len(re.findall(r'^  - name:', (CONTENT / 'about/_index.md').read_text(encoding='utf-8'), re.M))
