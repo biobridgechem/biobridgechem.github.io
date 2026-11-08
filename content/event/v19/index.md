@@ -3,7 +3,7 @@ title: 19th Cambridge Chem&Bio Seminar
 summary: Saturday 25 April | 10 am - 2 pm
 date: 2026-04-25
 authors:
-  - admin
+  - Haowei
 tags:
   - event
 ---
