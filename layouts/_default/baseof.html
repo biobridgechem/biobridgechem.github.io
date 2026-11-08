@@ -35,7 +35,8 @@
       <nav id="primary-nav" aria-label="Main navigation">
         {{ $current := .RelPermalink }}
         {{ range site.Menus.main }}<a href="{{ .URL | relURL }}" {{ if or (eq $current .URL) (and (ne .URL "/") (hasPrefix $current .URL)) }}aria-current="page"{{ end }}>{{ .Name }}</a>{{ end }}
-        <a class="button button-small" href="{{ "/contact/" | relURL }}">Get in touch <span aria-hidden="true">↗</span></a>
+        <a href="{{ "/contact/" | relURL }}">Contact</a>
+        <a class="button button-small" href="{{ site.Params.registration_url }}">Register <span aria-hidden="true">↗</span></a>
       </nav>
     </div>
   </header>

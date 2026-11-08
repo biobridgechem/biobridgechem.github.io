@@ -46,6 +46,10 @@ team:
     role: ""
     bio: "EMBO Research Fellow, NWO Rubicon Fellow at Yusuf Hamied Department of Chemistry, Postdoctoral Research Associate at Lucy Cavendish College, University of Cambridge. Research interests include microfluidics, synthetic cells and protein phase transition."
     image: "Chang_Chen.jpg"
+  - name: "YiZhong"
+    role: ""
+    bio: "PhD student, Department of Pathology, University of Cambridge"
+    image: "yizhong.jpg"
 alumni:
   - name: "Zutao Yu"
     role: "Honorary Director"
