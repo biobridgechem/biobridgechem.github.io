@@ -3,6 +3,7 @@
 {{ $events := sort (where .Pages "Params.date" "ne" nil) "Date" "desc" }}
 <section class="page-hero"><div class="container"><p class="eyebrow">LEARN · DISCUSS · CONNECT</p><h1>Seminars & events<span class="accent">.</span></h1><p>A meeting point for research and ideas. Explore our seminar series, discover speakers and revisit past events.</p></div></section>
 <section class="section container archive-section">
+  <div class="announcement"><span class="status-dot"></span><div><h2>Join our next seminar.</h2><p>{{ time.Format "2 January 2006" site.Params.registration_event_date }}. Registration closes at the start of the previous day (UK time).</p></div>{{ partial "registration-link.html" (dict "class" "button" "label" site.Params.registration_label) }}</div>
   <div class="archive-toolbar" data-filter-controls hidden><div><label for="seminar-search">Find a seminar</label><input type="search" id="seminar-search" placeholder="Search titles, speakers or topics…" autocomplete="off"></div><div><label for="seminar-year">Year</label><select id="seminar-year"><option value="">All years</option>{{ range $events.GroupByDate "2006" }}<option value="{{ .Key }}">{{ .Key }}</option>{{ end }}</select></div><p id="result-count" role="status" aria-live="polite">{{ len $events }} events</p></div>
   <div class="event-grid">{{ range $events }}{{ partial "event-card.html" . }}{{ end }}</div><p class="empty-state" id="empty-results" hidden>No seminars match your search. Try another topic or select a different year.</p>
 </section>

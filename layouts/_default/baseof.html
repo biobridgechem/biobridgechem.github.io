@@ -36,7 +36,6 @@
         {{ $current := .RelPermalink }}
         {{ range site.Menus.main }}<a href="{{ .URL | relURL }}" {{ if or (eq $current .URL) (and (ne .URL "/") (hasPrefix $current .URL)) }}aria-current="page"{{ end }}>{{ .Name }}</a>{{ end }}
         <a href="{{ "/contact/" | relURL }}">Contact</a>
-        {{ partial "registration-link.html" (dict "class" "button button-small" "label" "Register") }}
       </nav>
     </div>
   </header>
