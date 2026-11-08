@@ -32,6 +32,12 @@ The public site is https://biobridgechem.co.uk/.
   using `_index.md` are also supported.
 - **Partners:** edit `content/partnership/index.md`.
 - **Contact details:** edit `config/_default/params.yaml`.
+- **Registration:** update `registration_url`, `registration_label` and
+  `registration_event_date` together in `config/_default/params.yaml` for each
+  event. All registration links close at 00:00 Europe/London on the day before
+  the event, including on cached or already-open pages. JavaScript is required
+  to enable registration links. This closes website entry points; the Google
+  Form itself must be closed separately to block previously saved direct links.
 - **Navigation:** edit `config/_default/menus.yaml`.
 - **Design:** `assets/css/site.css`, `assets/js/site.js` and `layouts/`.
 

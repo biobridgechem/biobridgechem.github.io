@@ -1,4 +1,29 @@
 (() => {
+  // Keep static/cached pages safe without relying on a scheduled rebuild.
+  const registrationLinks = [...document.querySelectorAll('[data-registration-link]')];
+  const updateRegistration = () => {
+    registrationLinks.forEach(link => {
+      const cutoff = Date.parse(link.dataset.registrationCutoff);
+      const open = Number.isFinite(cutoff) && Date.now() < cutoff;
+      if (open) {
+        link.href = link.dataset.registrationUrl;
+        link.removeAttribute('aria-disabled');
+        link.textContent = link.dataset.registrationLabel;
+      } else {
+        link.removeAttribute('href');
+        link.setAttribute('aria-disabled', 'true');
+        link.textContent = 'Registration closed';
+      }
+    });
+  };
+  registrationLinks.forEach(link => link.addEventListener('click', event => {
+    updateRegistration();
+    if (!link.hasAttribute('href')) event.preventDefault();
+  }));
+  updateRegistration();
+  setInterval(updateRegistration, 1000);
+  window.addEventListener('pageshow', updateRegistration);
+  document.addEventListener('visibilitychange', updateRegistration);
   const menu = document.querySelector('.menu-toggle');
   const nav = document.querySelector('#primary-nav');
   if (menu && nav) {

@@ -1373,6 +1373,10 @@ em {
     padding-block:40px 60px
   }
 }
+[data-registration-link][aria-disabled="true"] {
+  opacity: .6;
+  cursor: not-allowed;
+}
 @media(prefers-reduced-motion:reduce) {
   html {
     scroll-behavior:auto
